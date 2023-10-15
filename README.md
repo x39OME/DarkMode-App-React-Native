@@ -30,5 +30,8 @@ module.exports = function (api) {
   };
 };
 ```
--
--
+
+## Run App
+- npx expo start -w
+- expo start --tunnel
+- Scan QR Code By Your Phone android or ios
