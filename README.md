@@ -45,3 +45,4 @@ module.exports = function (api) {
 
 
 ### Dark
+<img src="dark.jpg" style="width:300px; height:500px" alt="Dark Mode">
