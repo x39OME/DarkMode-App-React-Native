@@ -41,7 +41,7 @@ module.exports = function (api) {
 
 
 ### Light
-<img src="light.jpg" alt="Light Mode">
+<img src="light.jpg" style="width:150px; height:15px" alt="Light Mode">
 
 
 ### Dark
