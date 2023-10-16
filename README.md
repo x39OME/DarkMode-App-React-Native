@@ -8,6 +8,7 @@
 
 - npx create-expo-app DarkTheme
 - npm i nativewind
+- npm i --dev tailwindcss
 - npx tailwindcss init
 ```
 // tailwind.config.js
