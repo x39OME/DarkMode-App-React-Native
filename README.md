@@ -1,8 +1,11 @@
 # Dark Theme React Native
-- Expo
-- NativeWind
--
+
+- [React Native Expo](https://reactnative.dev/)
+- [NativeWind](https://www.nativewind.dev/quick-starts/expo)
+
+
 ## Steps
+
 - npx create-expo-app DarkTheme
 - npm i nativewind
 - npx tailwindcss init
