@@ -38,3 +38,10 @@ module.exports = function (api) {
 - npx expo start -w
 - expo start --tunnel
 - Scan QR Code By Your Phone android or ios
+
+
+### Light
+<img src="light.jpg" alt="Light Mode">
+
+
+### Dark
