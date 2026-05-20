@@ -4,6 +4,14 @@
 - [NativeWind](https://www.nativewind.dev/quick-starts/expo)
 
 
+## Preview
+- Dark
+- Light
+
+
+<img src="dark-light.jpg" alt="light dark mode">
+
+
 ## Steps
 
 - npx create-expo-app DarkTheme
@@ -40,10 +48,3 @@ module.exports = function (api) {
 - expo start --tunnel
 - Scan QR Code By Your Phone android or ios
 
-
-### Light
-<img src="light.jpg" style="width:300px; height:500px" alt="Light Mode">
-
-
-### Dark
-<img src="dark.jpg" style="width:300px; height:500px" alt="Dark Mode">
